@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Jose",
+    "sobrenome": "da Costa",
+    "telefone": "973650999",
+    "ra": 1
+  },
+  {
+    "id": 2,
+    "nome": "Lais",
+    "sobrenome": "Barbosa",
+    "telefone": "993650999",
+    "ra": 2
+  },
+  {
+    "id": 3,
+    "nome": "Vinicius",
+    "sobrenome": "Andrade",
+    "telefone": "993650999",
+    "ra": 3
+  },
+  {
+    "id": 4,
+    "nome": "Jonathan",
+    "sobrenome": "Cruz",
+    "telefone": "973650999",
+    "ra": 316143798
+  }
+]
